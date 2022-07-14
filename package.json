@@ -1,0 +1,24 @@
+{
+  "name": "jest-test-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fourteen98/Jest-Test-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fourteen98/Jest-Test-Practice/issues"
+  },
+  "homepage": "https://github.com/Fourteen98/Jest-Test-Practice#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.18.6",
+    "jest": "^28.1.3"
+  }
+}
